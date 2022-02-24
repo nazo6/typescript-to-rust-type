@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2016",                                  
+    "module": "commonjs",                                
+    "strict": true,                                      
+    "skipLibCheck": true,
+    "esModuleInterop": true
+  },
+  "ts-node": {
+    "swc": true
+  }
+}
