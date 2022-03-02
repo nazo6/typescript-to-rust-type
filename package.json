@@ -1,6 +1,6 @@
 {
   "name": "@nazo6/typescript-to-rust-type",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "",
   "main": "index.js",
   "bin": {
